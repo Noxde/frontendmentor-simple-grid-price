@@ -184,6 +184,12 @@ footer .attribution a:hover {
             box-shadow: 1px 1px 20px 5px rgba(0, 0, 0, 0.2);
     margin-bottom: 1rem;
   }
+  .btn:active {
+    -webkit-transform: translateY(-0.2rem);
+            transform: translateY(-0.2rem);
+    -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  }
   .join {
     padding-top: 1rem;
   }
