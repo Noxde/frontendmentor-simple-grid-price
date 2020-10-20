@@ -24,6 +24,7 @@ body {
   align-items: center;
   height: 100vh;
   font-size: 16px;
+  padding: 0 1rem;
 }
 
 main {
@@ -133,7 +134,7 @@ footer {
   }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 450px) {
   body {
     padding: 3rem 2rem;
     position: relative;
